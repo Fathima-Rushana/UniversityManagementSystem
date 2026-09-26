@@ -69,3 +69,11 @@ src/StudentBST.java         - Binary search tree: students organized by ID
 src/StudentHashTable.java   - Hash table: fast student ID lookup
 src/CampusGraph.java        - Graph: campus locations and connections, BFS/DFS
 src/Main.java                - Menu-driven console interface tying everything together
+
+GITHUB COLLABORATION
+--------------------
+Each member worked on their assigned component using separate feature
+branches and pull requests before merging into main, demonstrating
+GitHub collaboration (e.g., feature-rushana-linkedlist branch merged
+via pull request #1).
+
